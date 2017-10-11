@@ -1,0 +1,11 @@
+What powers Strava.com?
+
+1. Facebook.com - Social networking site
+2. Google Plus - Social networking site
+3. Twitter - Social networking site
+4. Twitter bootstrap - HTML + CSS framework
+5. Twitter adds - advertising agent 
+6. Facebook Pixel - an agent that helps track adds and the stats on adds on your site
+7. D3 - Javascript library for visualizing data with HTML and CSS
+8. JQUERY  - javascript library 
+9. Various font types
