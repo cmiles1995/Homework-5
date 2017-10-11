@@ -1,0 +1,12 @@
+The business model canvas. Designed for: Strava.com; Designed by: Chris Miles
+
+Key partners: Garmin, local and community bike shops, various GPS technology companies
+Cost Structure: Marketing costs, staff costs, technology costs i.e. website, app development.
+Key Activities: Providing, developing and maintaining app for recording runs, swims, rides and hikes.
+Key Resources: Capable staff, the internet?
+Value propositions: Enable athletes to record activities, stay motivated, and build a community. Enable athetes to compare and track activities.
+Revenue Streams: Advertisments on app and websites, subscription to 'premium' version of app.
+Customer Relationships: Along with Garmin, the go-to way for athletes to track activities. 
+Channels: Strava website, Strava app, Garmin technology devices, Apple watch, and other GPS compatible devices
+Customer Segments: Cyclists, runners, swimmers, triathletes, and fans of these sports
+
