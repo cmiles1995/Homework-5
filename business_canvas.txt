@@ -10,3 +10,13 @@ Customer Relationships: Along with Garmin, the go-to way for athletes to track a
 Channels: Strava website, Strava app, Garmin technology devices, Apple watch, and other GPS compatible devices
 Customer Segments: Cyclists, runners, swimmers, triathletes, and fans of these sports
 
+SEO success factors of Strava.com
+Positives:
+1. Ac (crawl) - search engines can easily 'pages' on the website. It is always the first page to pop up when searching on google.
+2. Cq (quality) - pages have the right amount of quality that is engaging and easy to read.
+3.Sr (reputation) - Strava has great connections with other social media platforms such as twitter where their content is shared heavily
+
+Negatives:
+1. As (speed) - Strava (especially web version) can take long to load
+2. Au ( URLS) - URLS have meaningless keywords
+3. Th (History) - Strava is relatively new, and the website layout changes too much
